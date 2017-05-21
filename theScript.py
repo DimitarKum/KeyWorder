@@ -1,4 +1,3 @@
-import nltk
 import operator
 
 def getBigFreqMap():
